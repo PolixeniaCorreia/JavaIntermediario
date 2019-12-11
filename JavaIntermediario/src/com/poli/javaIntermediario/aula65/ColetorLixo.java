@@ -8,7 +8,7 @@ public class ColetorLixo {
 		
 		final int MB = 1024 * 1024;
 		
-		Runtime runtime = Runtime.getRuntime();
+		Runtime runtime = Runtime.getRuntime(); // singleton
 		
 		System.out.println((runtime.totalMemory() - runtime.freeMemory()) / MB );
 	
