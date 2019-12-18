@@ -1,4 +1,4 @@
-package com.poli.javaIntermediario.teste1;
+package com.poli.javaIntermediario.teste;
 
 public class ThreadStart {
 
