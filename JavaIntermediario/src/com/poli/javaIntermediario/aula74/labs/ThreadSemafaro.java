@@ -1,7 +1,5 @@
 package com.poli.javaIntermediario.aula74.labs;
 
-import org.omg.PortableServer.THREAD_POLICY_ID;
-
 public class ThreadSemafaro implements Runnable{
 	
 	private CorSemafaro cor;
