@@ -18,7 +18,7 @@ public class Aula89SimpleDateFormat {
 		Date hj = new Date();
 		
 		System.out.println(sdf.format(hj));
-		
+		 
 		String d = sdf.format(hj);
 		
 		SimpleDateFormat sdf1 = new SimpleDateFormat("dd/MM/yyyy");
